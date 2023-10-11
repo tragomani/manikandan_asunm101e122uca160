@@ -18,4 +18,4 @@ students = [
 sorted_students = sort_students(students)
 
 for student in sorted_students:
-    print(f"Name: {student.name}, Roll Number: {student.roll_number}, CGPA: {student.cgpa}"
+    print(f"Name: {student.name}, Roll Number: {student.roll_number}, CGPA: {student.cgpa}")
